@@ -1,0 +1,16 @@
+{
+  "name": "La Libertad Avanza - Sistema Electoral",
+  "short_name": "LLA Electoral",
+  "description": "Sistema electoral para La Libertad Avanza Buenos Aires",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8B5CF6",
+  "theme_color": "#8B5CF6",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/La_Libertad_Avanza_full_logo.svg/800px-La_Libertad_Avanza_full_logo.svg.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
